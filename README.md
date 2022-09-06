@@ -1,4 +1,4 @@
-# Tp1-Informatica-Aplicada-
+# Tp2-Informatica-Aplicada-
 Desarrollar un programa que simule el control de una cinta transportadora Resuelto en lenguaje C++
 
 Enunciado del problema 
